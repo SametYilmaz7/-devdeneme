@@ -53,8 +53,8 @@ namespace siberguvenlik_vize
                                 new JProperty("Url", elemList[0].Attributes["output"].Value))); //Script alanından sadece output kısmını çağırıyorum
 
                     // Bu kısımda json array'e kaydettigim veriler ayarlanan dosya yoluna json dosyası olarak oluşturuluyor.
-
-                    File.WriteAllText(@"C:\Users\samet\OneDrive\Masaüstü\deneme.json", result.ToString());
+                    
+                    File.WriteAllText(@"C:\Users\samet\OneDrive\Masaüstü\deneme.json", result.ToString()); //Dosya yolu kullanılan bilgisayara göre ayarlanmalıdır. 
                     using (StreamWriter dosya = File.CreateText(@"C:\Users\samet\OneDrive\Masaüstü\deneme.json"))
                     using (JsonTextWriter yazdir = new JsonTextWriter(dosya))
                     {
