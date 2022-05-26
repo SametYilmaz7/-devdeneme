@@ -34,7 +34,7 @@ namespace siberguvenlik_vize
                 Process process = new Process();
                 ProcessStartInfo startInfo = new ProcessStartInfo();
                 startInfo.FileName = "nmap.exe";
-                startInfo.Arguments = "-p " + port + " --script http-sql-injection " + address; //Kullanıcının girdiği ip parametresini burada kullanıyoruz. Bu komut sayesinde uygulamada yazılması gereken komutları yazıyoruz.
+                startInfo.Arguments = "-p " + port + " --script http-sql-injection " + address; //Kullanıcının girdiği parametreleri burada kullanıyoruz. Bu komut sayesinde uygulamada yazılması gereken komutları yazıyoruz.
 
                 process.StartInfo = startInfo;
                 process.Start();
@@ -45,7 +45,7 @@ namespace siberguvenlik_vize
                 Console.WriteLine("*************************Tarama islemi tamamlandi.*************************");
                 Console.WriteLine("*******************************************************************************************");
 
-                JArray result = new JArray(   //Bu kısımda girdigimiz verileri array'e kaydediyorum
+                JArray result = new JArray(   //Bu kısımda verileri array'e kaydediyorum
                    new JObject(
                             new JProperty("Nmap command", startInfo.Arguments)));
                    new JObject(

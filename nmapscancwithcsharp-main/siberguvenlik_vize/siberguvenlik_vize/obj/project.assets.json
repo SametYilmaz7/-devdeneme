@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samet\\OneDrive\\Masaüstü\\nmapscancwithcsharp-main\\siberguvenlik_vize\\siberguvenlik_vize\\siberguvenlik_vize.csproj",
+      "projectUniqueName": "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\-devdeneme\\nmapscancwithcsharp-main\\siberguvenlik_vize\\siberguvenlik_vize\\siberguvenlik_vize.csproj",
       "projectName": "siberguvenlik_vize",
-      "projectPath": "C:\\Users\\samet\\OneDrive\\Masaüstü\\nmapscancwithcsharp-main\\siberguvenlik_vize\\siberguvenlik_vize\\siberguvenlik_vize.csproj",
+      "projectPath": "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\-devdeneme\\nmapscancwithcsharp-main\\siberguvenlik_vize\\siberguvenlik_vize\\siberguvenlik_vize.csproj",
       "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samet\\OneDrive\\Masaüstü\\nmapscancwithcsharp-main\\siberguvenlik_vize\\siberguvenlik_vize\\obj\\",
+      "outputPath": "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\-devdeneme\\nmapscancwithcsharp-main\\siberguvenlik_vize\\siberguvenlik_vize\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
