@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Sk52IfHo03G/UbB4jrKw/lhO3sFmFZG+fi1lSqYEfsuF3aLfUS7IIeJHJcOft59z42NRGqSJBh1MEqXdGw0Lug==",
+  "dgSpecHash": "hbqKpZmLahX5eA6eEbzApC5qbXqzDkryFjvYHzE70m8VjU99bPXBhW+gI0vqCKECWrf3mVGRP5RQjZkL67A/9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\-devdeneme\\nmapscancwithcsharp-main\\siberguvenlik_vize\\siberguvenlik_vize\\siberguvenlik_vize.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\samet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\samet\\.nuget\\packages\\elasticsearch.net\\7.17.2\\elasticsearch.net.7.17.2.nupkg.sha512",
+    "C:\\Users\\samet\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\samet\\.nuget\\packages\\nest\\7.17.2\\nest.7.17.2.nupkg.sha512",
+    "C:\\Users\\samet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\samet\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\samet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
