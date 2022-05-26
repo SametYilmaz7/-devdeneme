@@ -1,0 +1,4 @@
+[
+  { "Nmap command": "-p 80 --script http-sql-injection testphp.vulnweb.com" } 
+
+]
